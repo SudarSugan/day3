@@ -1,0 +1,41 @@
+p2 {
+  color: blue;
+}
+/* this gentral  external css file */
+
+body {
+  background-color: dimgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  font-weight: normal;
+
+  /* instread of that use like this 
+font : normal 16 px,  Arial , Helvertica, sans-serif
+*/
+}
+
+p3 {
+  color: ivory;
+  line-height: 1.5 em;
+}
+.s1 {
+  background-color: lightblue;
+  color: sandybrown;
+  border-left: 10px red solid;
+  border-right: 10px red solid;
+  border-top: 15px red solid;
+  border-bottom: 15px red solid;
+
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.container {
+  width: 960px;
+  margin: auto;
+
+  background-color: tomato;
+  color: white;
+}
