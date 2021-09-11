@@ -35,7 +35,26 @@ p3 {
 .container {
   width: 960px;
   margin: auto;
-
-  background-color: tomato;
-  color: white;
+  font-style: italic;
+  font-weight: 800;
+  font-family: fantasy;
 }
+.s2 {
+  border: 1px #ccc solid;
+  padding: 15px;
+  border-radius: 15px;
+}
+.s2 li {
+  border-bottom: dotted 1px #333;
+  padding-bottom: 6px;
+}
+h1 {
+  text-align: center;
+}
+.s3 li {
+   list-style-image: url("");
+    padding-bottom: 6px;
+  }
+  h1 {
+    text-align: center;
+  }
